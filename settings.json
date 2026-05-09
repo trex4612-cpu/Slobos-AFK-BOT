@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "DinoRock_741",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "DinoRock_SMP.aternos.me",
